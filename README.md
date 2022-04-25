@@ -24,6 +24,11 @@ The squares will departure in sequence, and lights will turn on depending on wha
 
 The squares will also bounce back when they hit the boundary.
 
-This game is shown below:
+&emsp;
+
+This game is shown below：
+
+https://user-images.githubusercontent.com/34390301/165068270-4d538e7b-d4ee-4cb3-99d4-39c6132be481.mp4
+
 
 
